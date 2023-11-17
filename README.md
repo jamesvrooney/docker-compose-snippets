@@ -1,6 +1,6 @@
 # docker compose snippets
 
-## Contents
+## <a id="contents"></a>Contents
 1. [docker-compose-postgres-pgadmin](#docker-compose-postgres-pgadmin)
 2. [Something else](#something-else)
 
@@ -45,3 +45,7 @@ docker compose down
 ---
 
 ### <a id="something-else"></a> Something else
+
+---
+
+[Contents](#contents)
