@@ -24,23 +24,24 @@ or if file is called: **docker-compose.yml**
 ```
 docker compose down
 ```
-View running containers in Docker Desktop
+#### View running containers in Docker Desktop
 ![PGAdmin & postgres container in Docker Desktop](./images/01_pgadmin_postgres_docker.png)
 
-Enter the master password for PGAdmin
+#### Enter the master password for PGAdmin
 ![Enter the master password for PGAdmin](./images/02_pgadmin_master_password.png)
 
-Add new server
+#### Add new server
 ![Add new server](./images/03_pgadmin_add_new_server.png)
 
-Set new server name
+#### Set new server name
 ![Set new server name](./images/04_pgadmin_set_new_server_name.png)
 
-Connect to postgres running in docker container
+#### Connect to postgres running in docker container
 ![Connect to postgres running in docker container](./images/05_connect_to_postgres_database_in_container.png)
 
-Connected
+#### Connected
 ![Connected](./images/06_connected.png)
+
 ---
 
 ### <a id="something-else"></a> Something else
